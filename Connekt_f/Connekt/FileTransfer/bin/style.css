@@ -1,0 +1,43 @@
+/* style.css */
+.root {
+    -fx-background-color: #f2f2f2;
+}
+
+.header-label {
+    -fx-font-size: 18;
+    -fx-font-weight: bold;
+}
+
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+}
+
+.button:hover {
+    -fx-background-color: #45a049;
+}
+
+.progress-bar {
+    -fx-accent: #4CAF50;
+}
+.root {
+    -fx-base: #212121;
+    -fx-control-inner-background: #212121;
+    -fx-background: #212121;
+    -fx-background-color: #212121;
+    -fx-text-fill: white;
+}
+
+.label {
+    -fx-text-fill: white;
+}
+
+.button {
+    -fx-base: #424242;
+    -fx-text-fill: white;
+}
+
+.progress-bar {
+    -fx-accent: #ad31c6;
+}
+
